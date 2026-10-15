@@ -1,0 +1,7 @@
+src/vol_data_cache.pkl
+*.pkl
+*.pdf
+!paper/*.pdf
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
