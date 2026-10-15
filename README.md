@@ -2,7 +2,7 @@
 
 Can the options market's fear gauges (VIX, VVIX and the volatility risk premium) forecast next month's equity **returns** or **realized volatility**? Can tree-based models extract more than a linear regression?
 
-*Final project for Machine Learning in Finance (BUSN 35137), University of Chicago Booth School of Business (Mar 2026).*
+*Independent research with Prof. Leland Bybee, University of Chicago Booth School of Business (Winter 2026), completed in Machine Learning in Finance (BUSN 35137).*
 
 <p align="center">
   <img src="figures/oos_r2.png" width="850" alt="Out-of-sample R-squared by model for the return target and the volatility target">
